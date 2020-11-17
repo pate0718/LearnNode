@@ -11,5 +11,5 @@ app.get('/',(req,res)=>{
 hello();
 function hello(){ console.log("hello") };
 let x=10;
-
+console.log("hello");
 console.log(x);
